@@ -1,6 +1,8 @@
 # Python-Game-Zombie-Dash
 PROJECT TITLE: Zombie Dash
+
 GROUP: Mighty Pythons
+
 GROUP MEMBERS:
 Hafsa Malik ,Hafsa Tariq,Zainab Anwaar,Sadia Rehman
 
@@ -23,3 +25,19 @@ ARCHITECTURE:
 
 TOOLS:
 The main tool required for this game is Python IDLE and the modules that are imported from python are 'random' and 'Tkinter' that is a python binding to the Tk GUI toolkit.
+
+SCREENSHOTS:
+![1](https://user-images.githubusercontent.com/76608263/124505124-4383f180-dde2-11eb-8217-91d1ef1ad89a.png)
+![2](https://user-images.githubusercontent.com/76608263/124505134-4aaaff80-dde2-11eb-87b4-f6c2e81fbff8.png)
+![3](https://user-images.githubusercontent.com/76608263/124505154-53033a80-dde2-11eb-8f9c-39473409a459.png)
+![4](https://user-images.githubusercontent.com/76608263/124505172-5991b200-dde2-11eb-9190-df825b16f1e6.png)
+![5](https://user-images.githubusercontent.com/76608263/124505188-5f879300-dde2-11eb-8233-59f728482e8f.png)
+![6](https://user-images.githubusercontent.com/76608263/124505199-66160a80-dde2-11eb-88d4-e577969ce6ca.png)
+![7](https://user-images.githubusercontent.com/76608263/124505212-6b735500-dde2-11eb-8d3f-ab746dc5031a.png)
+
+
+
+
+
+
+
