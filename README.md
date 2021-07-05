@@ -26,7 +26,10 @@ ARCHITECTURE:
 TOOLS:
 The main tool required for this game is Python IDLE and the modules that are imported from python are 'random' and 'Tkinter' that is a python binding to the Tk GUI toolkit.
 
+
 SCREENSHOTS:
+
+
 ![1](https://user-images.githubusercontent.com/76608263/124505124-4383f180-dde2-11eb-8217-91d1ef1ad89a.png)
 ![2](https://user-images.githubusercontent.com/76608263/124505134-4aaaff80-dde2-11eb-87b4-f6c2e81fbff8.png)
 ![3](https://user-images.githubusercontent.com/76608263/124505154-53033a80-dde2-11eb-8f9c-39473409a459.png)
